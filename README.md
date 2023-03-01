@@ -28,6 +28,4 @@
 ## Launch project:
 
 - cp .env.example .env
-- make setup-database
-- make run-migration
-- go run main.go
+- docker compose up
